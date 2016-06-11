@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3A5AC6CD-732B-E357-7BAE-6FFEF185943E}") = "UnityParticleSystems", "Assembly-CSharp.csproj", "{14D157D0-A5AA-D57A-98A6-BCEDA258D5ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14D157D0-A5AA-D57A-98A6-BCEDA258D5ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D157D0-A5AA-D57A-98A6-BCEDA258D5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D157D0-A5AA-D57A-98A6-BCEDA258D5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D157D0-A5AA-D57A-98A6-BCEDA258D5ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
